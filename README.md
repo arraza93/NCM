@@ -1,4 +1,4 @@
-# NCM
+# NCM in Pakistan - Twitter data
 Urdu serves as the national language of Pakistan, and a significant portion of the population utilizes the Roman Urdu script to articulate their opinions on X (previously known as Twitter).
 
 This dataset comprises of 10,000 tweets in Roman Urdu (a widely langauge used on social media platforms in Pakistan) related to No Confidence Motion (NCM), 2022 in Pakistan.  
